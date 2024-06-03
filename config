@@ -1,0 +1,5 @@
+git config --global user.name "ixlos23"
+git config --global user.email "izzatmatkarimov090@gmail.com"
+
+$ ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
